@@ -11,7 +11,7 @@
   "crons": [
     {
       "path": "/api/revalidate?tag=products",
-      "schedule": "0 * * * *"
+      "schedule": "schedule": "0 12 * * *"
     }
   ]
 }
